@@ -1,0 +1,35 @@
+{
+  "name": "video-to-recipe",
+  "version": "0.1.0",
+  "description": "Turn a cooking video URL into a structured recipe with the Supadata SDK.",
+  "type": "module",
+  "bin": {
+    "video-to-recipe": "bin/video-to-recipe.js"
+  },
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node bin/video-to-recipe.js"
+  },
+  "engines": {
+    "node": ">=20.6"
+  },
+  "keywords": [
+    "supadata",
+    "recipe",
+    "youtube",
+    "tiktok",
+    "instagram",
+    "transcript",
+    "cli"
+  ],
+  "author": "Big Beard Apps",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigBeardApps/video-to-recipe.git"
+  },
+  "dependencies": {
+    "@supadata/js": "^1.4.0"
+  }
+}
