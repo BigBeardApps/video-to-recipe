@@ -36,7 +36,7 @@ async function main() {
 
   const apiKey = process.env.SUPADATA_API_KEY;
   if (!apiKey) {
-    console.error('Missing SUPADATA_API_KEY. Copy .env.example to .env and add your key.');
+    console.error('Missing SUPADATA_API_KEY. Copy .env.example to .env, add your key, and run with node --env-file=.env');
     process.exit(1);
   }
 
