@@ -9,7 +9,7 @@
 ## Next
 
 - [x] Public repo `BigBeardApps/video-to-recipe` created and pushed 2026-10-22 (12:21 pm Central).
-      Default branch is `feat/initial-template`; rename to `main` on GitHub when convenient.
+      Default branch renamed to `main` the same day.
 - [ ] One real smoke run against a YouTube cooking video with a real key.
 - [ ] Claim credits on or after 2026-10-29, paste the repo URL into the Supadata
       "Publish a template or repo" form. Credits unlock 7 days after that.
