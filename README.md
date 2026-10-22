@@ -82,6 +82,8 @@ The tests use a fake Supadata client, so they run offline and never spend your c
 
 This repo is the bare-bones version. If you'd rather tap Share on a recipe video and have it land in a real cookbook, that's what [Feastmark](https://apps.apple.com/app/feastmark-save-any-recipe/id6762322193) does. It's an iPhone and iPad app with no account, no ads and no tracking, and your recipes stay on your device.
 
+Feastmark is free. Everything you save, plus Cook Mode, your library and search, stays free for good. Down the road, people who import a lot of recipes every month will be able to unlock unlimited imports, either yearly or as a one-time purchase. Most people will never hit the limit.
+
 Built by a veteran at [Big Beard Apps](https://bigbeardapps.com).
 
 ## License
